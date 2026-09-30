@@ -1,0 +1,352 @@
+{
+  "AE001": {
+    "item_no": "#1",
+    "name": "Heart Solitaire Studs",
+    "file": "AE001.jpg",
+    "bytes": 35006,
+    "px": [
+      1024,
+      1024
+    ]
+  },
+  "AE002": {
+    "item_no": "#2",
+    "name": "Cloud Nine Solitaires",
+    "file": "AE002.jpg",
+    "bytes": 118055,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE003": {
+    "item_no": "#3",
+    "name": "Twilight Octagon Halos",
+    "file": "AE003.jpg",
+    "bytes": 119330,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE004": {
+    "item_no": "#4",
+    "name": "Wishing Star Studs",
+    "file": "AE004.jpg",
+    "bytes": 73457,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE005": {
+    "item_no": "#5",
+    "name": "Everlasting Heart Halos",
+    "file": "AE005.jpg",
+    "bytes": 44855,
+    "px": [
+      1024,
+      1024
+    ]
+  },
+  "AE006": {
+    "item_no": "#6",
+    "name": "Frosted Bloom Studs",
+    "file": "AE006.jpg",
+    "bytes": 92811,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE007": {
+    "item_no": "#7",
+    "name": "Gardenia Halos",
+    "file": "AE007.jpg",
+    "bytes": 80158,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE008": {
+    "item_no": "#8",
+    "name": "Hearts Afire Studs",
+    "file": "AE008.jpg",
+    "bytes": 80640,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE009": {
+    "item_no": "#9",
+    "name": "Deco Oval Halos",
+    "file": "AE009.jpg",
+    "bytes": 143752,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE010": {
+    "item_no": "#10",
+    "name": "Cushion Cloud Studs",
+    "file": "AE010.jpg",
+    "bytes": 101289,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE011": {
+    "item_no": "#11",
+    "name": "Bar Drop Studs",
+    "file": "AE011.jpg",
+    "bytes": 68919,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE012": {
+    "item_no": "#12",
+    "name": "Cushion Cosmos Studs",
+    "file": "AE012.jpg",
+    "bytes": 121696,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE013": {
+    "item_no": "#13",
+    "name": "Starburst Halos",
+    "file": "AE013.jpg",
+    "bytes": 102742,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE014": {
+    "item_no": "#14",
+    "name": "True Companion Studs",
+    "file": "AE014.jpg",
+    "bytes": 88394,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE015": {
+    "item_no": "#15",
+    "name": "Sapphire Sky Drops",
+    "file": "AE015.jpg",
+    "bytes": 82456,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE016": {
+    "item_no": "#16",
+    "name": "Rose Blossom Pendant",
+    "file": "AE016.jpg",
+    "bytes": 154023,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE017": {
+    "item_no": "#17",
+    "name": "Emerald Empress Pendant",
+    "file": "AE017.jpg",
+    "bytes": 109003,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE018": {
+    "item_no": "#18",
+    "name": "Teardrop Tearose Pendant",
+    "file": "AE018.jpg",
+    "bytes": 142059,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE019": {
+    "item_no": "#19",
+    "name": "Morning Dew Pendant",
+    "file": "AE019.jpg",
+    "bytes": 105833,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE020": {
+    "item_no": "#20",
+    "name": "Duet Drop Pendant",
+    "file": "AE020.jpg",
+    "bytes": 139604,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE021": {
+    "item_no": "#21",
+    "name": "Starry Skies Pendant",
+    "file": "AE021.jpg",
+    "bytes": 148286,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE022": {
+    "item_no": "#22",
+    "name": "Crescent Moon Pendant",
+    "file": "AE022.jpg",
+    "bytes": 143276,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE023": {
+    "item_no": "#23",
+    "name": "Crown Jewels Pendant",
+    "file": "AE023.jpg",
+    "bytes": 149318,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE024": {
+    "item_no": "#24",
+    "name": "Art Deco Pendant",
+    "file": "AE024.jpg",
+    "bytes": 145137,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE025": {
+    "item_no": "#25",
+    "name": "Celestial Halo Pendant",
+    "file": "AE025.jpg",
+    "bytes": 119350,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE026": {
+    "item_no": "#26",
+    "name": "Starlight Halo Pendant",
+    "file": "AE026.jpg",
+    "bytes": 126577,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE027": {
+    "item_no": "#27",
+    "name": "Angel Heart Pendant",
+    "file": "AE027.jpg",
+    "bytes": 164013,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE028": {
+    "item_no": "#28",
+    "name": "Arrowhead Pendant",
+    "file": "AE028.jpg",
+    "bytes": 132028,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE029": {
+    "item_no": "#29",
+    "name": "Golden Hour Pendant",
+    "file": "AE029.jpg",
+    "bytes": 124576,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE030": {
+    "item_no": "#30",
+    "name": "Twilight Twin Heart Pendant",
+    "file": "AE030.jpg",
+    "bytes": 169609,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE031": {
+    "item_no": "#31",
+    "name": "Secret Garden Pendant",
+    "file": "AE031.jpg",
+    "bytes": 123959,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE032": {
+    "item_no": "#32",
+    "name": "Golden Amour Pendant",
+    "file": "AE032.jpg",
+    "bytes": 146653,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE033": {
+    "item_no": "#33",
+    "name": "Butterfly Kiss Pendant",
+    "file": "AE033.jpg",
+    "bytes": 129253,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE034": {
+    "item_no": "#34",
+    "name": "True Heart Pendant",
+    "file": "AE034.jpg",
+    "bytes": 148790,
+    "px": [
+      1200,
+      1200
+    ]
+  },
+  "AE035": {
+    "item_no": "#35",
+    "name": "Aurora Pendant",
+    "file": "AE035.jpg",
+    "bytes": 142337,
+    "px": [
+      1200,
+      1200
+    ]
+  }
+}
